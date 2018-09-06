@@ -15,5 +15,5 @@ Sajaysurya Ganesh
     - matplotlib
     - seaborn
     - tensorflow
-    - tensorflow_proability
+    - tensorflow_probability
     - pandas
