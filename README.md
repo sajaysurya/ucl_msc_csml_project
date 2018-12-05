@@ -2,6 +2,8 @@
 
 Sajaysurya Ganesh
 
+The project report is available [here](https://github.com/sajaysurya/ucl_msc_csml_project/blob/master/COMPGM99-Ganesh-Sajaysurya.pdf)
+
 ## Dependencies
 
  - DeepMind - [pycolab](https://github.com/deepmind/pycolab) should be installed
